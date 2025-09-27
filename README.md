@@ -1,4 +1,4 @@
-# H1_B_Visa Prediction
+# H_1B_Visa Prediction
 This project aims to predict the case status of H1B visa applications using a dataset from Kaggle. The project involves data cleaning, feature engineering, handling class imbalance using SMOTE, and training a machine learning model (XGBoost) to classify applications as 'CERTIFIED' or 'DENIED'.
 
 ## Dataset
